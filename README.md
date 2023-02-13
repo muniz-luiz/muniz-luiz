@@ -1,13 +1,3 @@
-<div>
-  <h1>About Me.</h1>
-  <p>:computer: I'm .NET Developer!<p>
-  <p>:house_with_garden: I’m from Brazil.<p>
-  <p>:books: I’m currently learning everything.<p>
-  <p>:outbox_tray: 2023 Goals: create a new project and find a new job.<p>
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
   
-<div>
-  <a href="https://github.com/muniz-luiz">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=muniz-luiz&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muniz-luiz&layout=compact&langs_count=7&theme=blue-green"/>
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+Luiz+Eduardo+Muniz;I+live+in+Recife,+SP;I'm+studying+CSHARP+ASP+.NET+CORE+MVC;Be+Welcome!+:%29)](https://git.io/typing-svg)
